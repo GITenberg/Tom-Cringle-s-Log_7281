@@ -1,0 +1,24 @@
+_repo: Tom-Cringle-s-Log_7281
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Michael
+    birthdate: 1789
+    deathdate: 1835
+    gutenberg_agent_id: '2405'
+    url: http://www.gutenberg.org/2009/agents/2405
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7281'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Fiction'
+- GITenberg
+title: Tom Cringle's Log
+url: http://www.gutenberg.org/ebooks/7281
